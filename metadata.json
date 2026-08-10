@@ -1,0 +1,8 @@
+{
+  "name": "Remix Income \u0026 Expense Tracker",
+  "description": "A modern, minimal income and expense tracking application with customizable categories, balance insights, and local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
